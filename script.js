@@ -1,4 +1,4 @@
-const end_date_user = new Date("1 December 2023 4:00 pm").toLocaleString();
+const end_date_user = new Date("25 December 2023 4:00 pm").toLocaleString();
 
 document.getElementById("end-date").innerText = end_date_user;
 
